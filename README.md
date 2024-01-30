@@ -1,4 +1,4 @@
-# Flames-Using-Python
+# 6K's Relationship Using Python
 **Author**: Ma. Jazmine P. Rosello
 
 **Purpose**: For the completion of exercise in CMSC 12: Foundations of Computer Science
