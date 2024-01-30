@@ -1,5 +1,6 @@
 # Flames-Using-Python
 **Author**: Ma. Jazmine P. Rosello
+**Purpose**: For the completion of exercise in CMSC 12: Foundations of Computer Science
 
 # ***Program Description***
 6k's Relationship is a python terminal based program game that is similar to flames. Unlike to the ordinary flames, in this python program, the processto determine the result of the relationship of the two names user entered are the following:
