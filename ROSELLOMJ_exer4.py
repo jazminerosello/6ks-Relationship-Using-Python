@@ -1,4 +1,6 @@
-
+#Author: Ma. Jazmine P. Rosello
+#Program Domain: 
+#python program that implements the game titled 6K’s of relationship. 6K’s of relationship is a game named after the acronym: Kaibigan, Kapuso, Kaaway, Kasal, Kilig(crush), Kapatid.
 
 print("\n\tWelcome!\nChildhood won't be complete without having crush on someone,\nNow here's the program for entertainment :>\n ")
 
